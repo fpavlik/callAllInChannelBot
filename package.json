@@ -1,0 +1,16 @@
+{
+  "name": "callAllInChannelBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fpavlik/callAllInChannelBot.git",
+  "author": "FIPavlik <FIPavlik@greenatom.ru>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4",
+    "telegraf": "^3.38.0"
+  }
+}
